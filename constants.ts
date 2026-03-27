@@ -2,7 +2,7 @@ export const CONFIG = {
   price: "97,00",
   weeklyIncomeMin: "500",
   weeklyIncomeMax: "800",
-  checkoutLink: "https://payfast.greenn.com.br/148623",
+  checkoutLink: "https://payfast.greenn.com.br/148623/offer/62K3WJ",
   guaranteeDays: 7
 };
 
