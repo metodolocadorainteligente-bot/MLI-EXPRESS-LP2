@@ -23,27 +23,9 @@ export const Hero = () => {
           
           <h1 className="text-2xl md:text-6xl font-display font-black mb-8 md:mb-12 leading-[1.1] text-white uppercase max-w-6xl mx-auto tracking-tighter">
             VOCÊ TRABALHA <br />
-            <div className="flex items-center justify-center flex-wrap gap-4">
-               O DIA INTEIRO 
-               <motion.img 
-                 src="/C:/Users/PC GAMER/.gemini/antigravity/brain/8ad8d6cf-8f51-4b9f-b791-dc60254938aa/digital_car_key_premium_circle_1774552223724.png" 
-                 className="w-10 h-10 md:w-20 md:h-20 rounded-full border-2 border-brand-primary shadow-glow-primary object-cover inline-block align-middle"
-                 animate={{ scale: [1, 1.05, 1] }}
-                 transition={{ duration: 5, repeat: Infinity }}
-               />
-               E AINDA
-            </div>
+            O DIA INTEIRO E AINDA <br />
             <span className="text-gradient">DEPENDE SÓ DE VOCÊ</span> <br />
-            <div className="flex items-center justify-center flex-wrap gap-4">
-               PARA GANHAR 
-               <motion.img 
-                 src="/C:/Users/PC GAMER/.gemini/antigravity/brain/8ad8d6cf-8f51-4b9f-b791-dc60254938aa/luxury_dashboard_detail_circle_1774552240464.png" 
-                 className="w-10 h-10 md:w-20 md:h-20 rounded-full border-2 border-brand-accent shadow-glow-accent object-cover inline-block align-middle"
-                 animate={{ y: [0, -8, 0] }}
-                 transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-               />
-               DINHEIRO?
-            </div>
+            PARA GANHAR DINHEIRO?
           </h1>
           
           <p className="text-base md:text-xl text-gray-400 max-w-3xl mx-auto mb-12 md:mb-20 leading-relaxed font-light tracking-wide px-2">
