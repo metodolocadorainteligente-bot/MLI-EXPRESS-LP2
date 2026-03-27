@@ -8,7 +8,7 @@ export const CONFIG = {
 
 export const HERO_CONTENT = {
   headline: ["Você trabalha o dia inteiro…", "mas ainda depende só de você para ganhar dinheiro?"],
-  subHeadline: "Existe uma forma de fazer seu carro gerar renda — mesmo quando você não está dirigindo. Sem precisar parar o que você já faz hoje.",
+  subHeadline: "Existe uma forma de fazer seu carro gerar renda, mesmo quando você não está dirigindo. Sem precisar parar o que você já faz hoje.",
   cta: "Quero fazer meu carro trabalhar para mim"
 };
 
